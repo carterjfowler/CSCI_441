@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libstbimage.a  CMakeFiles/stbimage.dir/stbimage.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libstbimage.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmd5model.a  CMakeFiles/md5model.dir/md5anim.cpp.o CMakeFiles/md5model.dir/md5mesh.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmd5model.a
